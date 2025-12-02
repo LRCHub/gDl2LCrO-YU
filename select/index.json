@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "奏(かなで)",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2025-12-02T14:27:22.448233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/01_奏(かなで)_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "奏(かなで) - re: produced by スキマスイッチ",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/02_奏(かなで)_-_re__produced_by_スキマスイッチ_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "Sukimaswitch",
+      "has_synced": false,
+      "path": "select/03_奏(かなで)_Sukimaswitch.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "奏（かなで）",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/04_奏(かなで)_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "奏 (かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/05_奏_(かなで)_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/06_奏(かなで)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/07_奏(かなで)_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "長谷祐樹（CV:山谷祥生）",
+      "has_synced": false,
+      "path": "select/08_奏(かなで)_長谷祐樹(CV_山谷祥生).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "藤宮香織（CV:雨宮天）",
+      "has_synced": true,
+      "path": "select/09_奏(かなで)_藤宮香織(CV_雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "奏 (かなで)",
+      "artist": "藤宮香織 (cv:雨宮天)",
+      "has_synced": true,
+      "path": "select/10_奏_(かなで)_藤宮香織_(cv_雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "奏(かなで) feat.安果音",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/11_奏(かなで)_feat.安果音_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "奏 (かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/12_奏_(かなで)_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "奏 (かなで)",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/13_奏_(かなで)_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "奏(かなで)",
+      "artist": "藤宮香織(CV:雨宮天)",
+      "has_synced": true,
+      "path": "select/14_奏(かなで)_藤宮香織(CV_雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "奏(かなで) - Kanade",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/15_奏(かなで)_-_Kanade_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "奏(かなで) - Rearranged",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/16_奏(かなで)_-_Rearranged_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "奏(かなで) feat. 安果音",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/17_奏(かなで)_feat._安果音_kobasolo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_04_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_05_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_06_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_07_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_08_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_09_奏(かなで)_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_10_奏(かなで)_スキマスイッチ.txt"
+    }
+  ]
+}
